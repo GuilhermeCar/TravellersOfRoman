@@ -2,7 +2,7 @@
 
 ## Sinopse:
 
-Três adolescentes, Lucas, Gabriel e Marina, decidem se esconder na biblioteca da escola após o horário de fechamento para estudar para uma prova importante. Quando a bibliotecária os descobre, eles saem correndo desesperadamente pela porta de saída. No entanto, ao atravessá-la, algo inexplicável acontece: o ambiente ao redor se transforma, e eles se veem em um mundo completamente diferente — as ruas são de pedras, o ar tem um cheiro diferente, e as pessoas falam uma língua estranha. Eles estão na Roma Antiga.
+Três adolescentes, Lukas, Gabriel e Agatha, decidem se esconder na biblioteca da escola após o horário de fechamento para estudar para uma prova importante. Quando a bibliotecária os descobre, eles saem correndo desesperadamente pela porta de saída. No entanto, ao atravessá-la, algo inexplicável acontece: o ambiente ao redor se transforma, e eles se veem em um mundo completamente diferente — as ruas são de pedras, o ar tem um cheiro diferente, e as pessoas falam uma língua estranha. Eles estão na Roma Antiga.
 
 Desorientados, os três amigos logo percebem que precisam aprender a se virar rapidamente. Sem entender latim, eles não conseguem se comunicar, ficando à mercê dos habitantes locais. Depois de dias vagando pelas ruas e observando atentamente os hábitos dos romanos, Lucas, Marina e Gabriel conseguem aprender o básico do idioma e começam a se integrar minimamente. No entanto, essa adaptação vem com percalços. Em um incidente no mercado, Gabriel quase arranja briga com um comerciante, e é Marina quem salva o trio ao se aliar a Livia, uma mulher influente que passa a protegê-los.
 
@@ -15,3 +15,11 @@ No entanto, a viagem no tempo não foi um acidente. Lucas descobre um antigo rit
 Na noite do ritual, Gabriel decide permanecer em Roma, seduzido pela ideia de se tornar uma lenda. Lucas e Marina, apesar das aventuras e amizades que fizeram, escolhem voltar ao presente, sabendo que suas vidas no futuro ainda guardam muitas oportunidades. De volta à biblioteca, o tempo parece não ter passado, mas eles carregam as memórias e cicatrizes de sua jornada em Roma.
 
 Enquanto Gabriel se torna parte da história como um herói perdido no tempo, Lucas e Marina voltam à vida moderna, transformados pela experiência, mas com o peso de uma despedida definitiva.
+
+## Actors
+Lukas: Cole Sprouse
+Gabriel: Dylan O'Brien
+Agatha: Maya Hawke
+
+Wise Man: Sean Connery
+Livia: Anne Hathaway
