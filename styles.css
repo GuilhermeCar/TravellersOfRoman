@@ -50,6 +50,7 @@ hr {
 }
 
 .synopsis {
+    text-align: justify;
     width: 50%;
 }
 
